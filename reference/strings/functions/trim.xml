@@ -14,7 +14,7 @@
    <methodparam choice="opt"><type>string</type><parameter>charlist</parameter></methodparam>
   </methodsynopsis>
   <para>
-   Esta função retorna uma string com os espaçoes retirados do ínicio e do final
+   Esta função retorna uma string com os espaçoes retirados do início e do final
    de <parameter>str</parameter>.
    Sem o segundo parâmetro,
    <function>trim</function> irá retirar estes caracteres
